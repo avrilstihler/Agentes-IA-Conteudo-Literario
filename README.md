@@ -61,6 +61,7 @@ O sistema é composto por um pipeline de **quatro agentes IA especializados**:
 
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT.
+
 Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 ---
