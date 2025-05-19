@@ -59,4 +59,10 @@ O sistema é composto por um pipeline de **quatro agentes IA especializados**:
 
 ---
 
+## 📄 Licença
+Este projeto está licenciado sob a licença MIT.
+Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+
+---
+
 Este sistema é um exemplo poderoso de como a IA pode ser uma ferramenta valiosa para criadores de conteúdo, pesquisadores e entusiastas da literatura! Sinta-se à vontade para experimentar e adaptar! 🎉
