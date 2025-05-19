@@ -50,7 +50,7 @@ O sistema é composto por um pipeline de **quatro agentes IA especializados**:
 
 ## ⚙️ Como Usar
 
-1.  **Pré-requisito:** Tenha uma API Key do Google Gemini.
+1.  **API Key 🔑:** Obtenha sua API Key do Google Gemini no [Google AI Studio](https://aistudio.google.com/app/apikey).
 2.  **Abra no Colab:** Clique no botão "Open In Colab" no topo deste README.
 3.  **Configure a API Key:** No Colab, vá em "Secrets" (ícone de chave 🔑) e adicione sua `GOOGLE_API_KEY`.
 4.  **Execute o Notebook:** Rode as células do notebook em ordem.
