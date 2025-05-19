@@ -1,7 +1,7 @@
 # 📚 Sistema de Agentes IA para Conteúdo Literário com Gemini ✒️
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DO_SEU_NOTEBOOK_AQUI)
-*(Substitua `URL_DO_SEU_NOTEBOOK_AQUI` pelo link direto para seu notebook no Colab)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/avrilstihler/Agentes-IA-Conteudo-Literario/blob/main/sistema_agentes_livros_gemini.ipynb)
+
 
 Este projeto utiliza o poder do Google Gemini e do Google Agent Development Kit (ADK) para criar um sistema inteligente capaz de gerar conteúdo rico e detalhado sobre livros e autores. Seja para uma resenha aprofundada, uma análise de autor ou um ponto de partida para discussões literárias, este sistema de agentes colabora para produzir textos informativos e envolventes.
 
